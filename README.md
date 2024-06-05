@@ -10,8 +10,12 @@ Welcome to the IoT Dashboard project! This web application provides a profession
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
 ## Preview
-
+#Dashboard
 ![image](https://github.com/Sowoul/IoT_Server/assets/93905595/73fd0500-e986-4d92-b3d4-868b611655cf)
+
+#Terminal Interfacing
+![image](https://github.com/Sowoul/IoT_Server/assets/93905595/421e33de-0b3e-4a16-8b68-7b8174b3eade)
+
 
 
 ## Getting Started
