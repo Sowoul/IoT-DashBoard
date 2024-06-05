@@ -11,7 +11,8 @@ Welcome to the IoT Dashboard project! This web application provides a profession
 
 ## Preview
 
-![Dashboard Preview](![image](https://github.com/Sowoul/IoT_Server/assets/93905595/b2113128-1860-4b97-80b8-fe653c2d31e2))
+![image](https://github.com/Sowoul/IoT_Server/assets/93905595/73fd0500-e986-4d92-b3d4-868b611655cf)
+
 
 ## Getting Started
 
