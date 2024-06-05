@@ -2,18 +2,18 @@
 
 Welcome to the IoT Dashboard project! This web application provides a professional and clean dashboard to display IoT sensor data, specifically monitoring fuel and distance metrics. Initially designed with built-in testing capabilities, this project is ready to integrate with actual IoT sensors.
 
-## Features
+# Features
 
 - **Real-time Data Visualization**: Displays sensor data in real-time using interactive charts.
 - **Fuel and Distance Monitoring**: Separate charts for fuel and distance metrics.
 - **Data Persistence**: Stores data locally in a JSON file.
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
-## Preview
-# Dashboard
+# Preview
+## Dashboard
 ![image](https://github.com/Sowoul/IoT_Server/assets/93905595/73fd0500-e986-4d92-b3d4-868b611655cf)
 
-# Terminal Interfacing
+## Terminal Interfacing
 ![image](https://github.com/Sowoul/IoT_Server/assets/93905595/421e33de-0b3e-4a16-8b68-7b8174b3eade)
 
 
